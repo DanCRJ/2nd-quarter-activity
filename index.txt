@@ -1,8 +1,8 @@
 <html>
 <title>Juario Q2 Activity 2</title>
-<head><font face="calibri" size="6">This is my Activity No. 2</font></head>
+<head><font face="calibri" color="#BE8F09" size="6">This is my Activity No. 2</font></head>
 <h5>Create an UNORDERED LISTS of Non-Fiction Books</h5>
-<body>
+<body bgcolor="#02468A">
 <p>
 <ul type="square">
 
@@ -31,4 +31,3 @@
 </p>
 </body>
 </html>
-	
