@@ -1,6 +1,7 @@
 <html>
-<title>Unordered and Ordered Books of Non-Fictions</title>
-<head>This is my Activity No. 2</head>
+<title>Juario Q2 Activity 2</title>
+<head><font face="calibri" size="6">This is my Activity No. 2</font></head>
+<h5>Create an UNORDERED LISTS of Non-Fiction Books</h5>
 <body>
 <p>
 <ul type="square">
